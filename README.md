@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frank255
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on Live pesa project
+- 💞️ I’m looking to collaborate on swahili developers
 - 📫 How to reach me Email:ilungafrank3@gmail.com phone:0766830442 or 0778428196
 
 <!---
